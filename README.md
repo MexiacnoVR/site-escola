@@ -1,11 +1,16 @@
 # site-escola
- </head>
+</head>
 
 <body>
-    <header>
-        <h1>mexico</h1>
-        <h1>basquetbol</h1>
-        <h1>shaq'Oneal</h1>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="" alt="">
+        <h1>Site Escola</h1>
+        <ul>
+            <li>Instituiçao</li>
+            <li>Estudantes</li>
+
+        </ul>
+
     </header>
 </body>
 
