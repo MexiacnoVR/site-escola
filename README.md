@@ -1,13 +1,17 @@
-# site-escola
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 
 <body>
     <header class="cabecalho">
-        <img class="cabecalho-imagem" src="" alt="">
-        <h1>Site Escola</h1>
-        <ul>
-            <li>Instituiçao</li>
-            <li>Estudantes</li>
+        <img class="cabecalho-imagem" src="image 1.png" alt="image-cabecalho">
+        <h1 class="cabecalho-titulo" >Site Escola</h1>
+        <ul class="cabecalgo-lista" >
+            <li class="cabecalho-item">Instituiçao</li>
+            <li class="cabecalho-item" >Estudantes</li>
 
         </ul>
 
